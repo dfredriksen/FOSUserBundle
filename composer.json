@@ -1,24 +1,5 @@
 {
     "name": "dfredriksen/user-bundle",
-    "type": "symfony-bundle",
-    "description": "Symfony FOSUserBundle",
-    "keywords": ["User management"],
-    "homepage": "http://friendsofsymfony.github.com",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Christophe Coevoet",
-            "email": "stof@notk.org"
-        },
-        {
-            "name": "Thibault Duplessis",
-            "email": "thibault.duplessis@gmail.com"
-        },
-        {
-            "name": "FriendsOfSymfony Community",
-            "homepage": "https://github.com/friendsofsymfony/FOSUserBundle/contributors"
-        }
-    ],
     "require": {
         "php": ">=5.3.9",
         "symfony/symfony": "3.0.*"
