@@ -1,5 +1,5 @@
 {
-    "name": "dfredriksen/FOSUserBundle",
+    "name": "dfredriksen/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": ["User management"],
